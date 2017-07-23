@@ -1,18 +1,17 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Integration Engines
+email: rhavourd@integration-engines.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a repository for all things useful and informative. Within, 
+  you will find product reviews, fun videos, and detailed "how-to's".
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-google_play: 'GDGX'
-google_plus_com: '109485346959707049693'  # Community link
-google_plus_per: '+GDGManagua'  #Personal link
-facebook_app_id: 12345
+url: "http://integration-engines.com" # the base hostname & protocol for your site
+twitter_username: rhavourd
+github_username:  rhavourd
+#google_play: 'GDGX'
+google_plus_com: '+RickHavourd'  # Community link
+google_plus_per: '+RickHavourd'  #Personal link
+facebook_app_id: 1398823036834117
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
@@ -30,8 +29,8 @@ more_vert:
     name: Cool Option 3
     link: www.myawesomelink.com
 
-disqus: true
-disqus_shortname: 'gdgmanagua'
+disqus: false
+disqus_shortname: 'nobody'
 
 # Build settings
 markdown: kramdown

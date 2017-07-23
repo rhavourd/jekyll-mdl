@@ -22,3 +22,8 @@ $grey-color-dark:  darken($grey-color, 25%);
         "post",
         "search"
 ;
+
+// My local changes
+.mdl-layout__header a:link {
+  text-decoration: none;
+}
